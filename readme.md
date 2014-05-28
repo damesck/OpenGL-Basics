@@ -1,6 +1,6 @@
 OpenGL Basics with GLUT
 =======================
-This reposistory consists of C++ files that I wrote to practice OpenGL. It is useful for everyone starting with just core OpenGL. I start with drawing a window and then gradually move on to adding shapes, transformations and so on. It does not consist of lighting for now, shall add that later. 
+This reposistory consists of C++ files that I wrote to practice OpenGL. It is useful for everyone starting with just core OpenGL. I start with drawing a window and then gradually move on to adding shapes, transformations and so on. 
 
 Why not straight get into GLSL?
 ===============================
